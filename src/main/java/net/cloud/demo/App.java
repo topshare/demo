@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "fix bug 444.abc" );
         System.out.print("aa");
+        System.out.print("two");
     }
 }
